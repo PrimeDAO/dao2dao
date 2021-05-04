@@ -1,5 +1,3 @@
-[![banner](https://i.ibb.co/NWjZc4N/Artboard-44.png)](https://primedao.eth.link/#/)
-
 # 🤖 PrimeDAO D2D Smart Contracts
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
